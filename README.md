@@ -12,7 +12,7 @@ library(fireworks)
 
 **make_art** is the main function of the package.
 
-To understand the function run this and provide an appropriate argument to generate an animation.
+To understand the function run ?make_art and provide an appropriate argument to generate an animation.
 ```
 ?make_art
 make_art(1234)
