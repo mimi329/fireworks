@@ -9,6 +9,11 @@ Run the following code to install and open the package:
 devtools::install_github("mimi329/fireworks")
 library(fireworks)
 ```
+Additionally you will need to have these two packages installed.
+```
+library(ggplot2)
+library(gganimate)
+```
 
 **make_art** is the main function of the package.
 
